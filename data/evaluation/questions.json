@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is multi-head attention?",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 2,
+    "question": "What is Moshi?",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 3,
+    "question": "What is Dynamic Chunking?",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 4,
+    "question": "How does scaled dot-product attention work?",
+    "category": "technical",
+    "expected": "correct"
+  },
+  {
+    "id": 5,
+    "question": "What is the encoder layer stack size in Transformer?",
+    "category": "technical",
+    "expected": "correct"
+  },
+  {
+    "id": 6,
+    "question": "Compare attention mechanisms between papers.",
+    "category": "comparison",
+    "expected": "correct"
+  },
+  {
+    "id": 7,
+    "question": "What is the exact quantum gravity equation in Attention Is All You Need?",
+    "category": "unanswerable",
+    "expected": "refused_correctly"
+  },
+  {
+    "id": 8,
+    "question": "What is the CPU clock speed of Moshi's server?",
+    "category": "unanswerable",
+    "expected": "refused_correctly"
+  },
+  {
+    "id": 9,
+    "question": "Explain positional encoding.",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 10,
+    "question": "What are residual connections?",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 11,
+    "question": "Explain hierarchical sequence modeling.",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 12,
+    "question": "What is real-time dialogue in Moshi?",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 13,
+    "question": "What is the capital of France mentioned in the papers?",
+    "category": "unanswerable",
+    "expected": "refused_correctly"
+  },
+  {
+    "id": 14,
+    "question": "Describe layer normalization.",
+    "category": "single_paper",
+    "expected": "correct"
+  },
+  {
+    "id": 15,
+    "question": "What is chunk size in dynamic chunking?",
+    "category": "single_paper",
+    "expected": "correct"
+  }
+]

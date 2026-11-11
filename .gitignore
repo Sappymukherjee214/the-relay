@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/papers/*.pdf
+data/processed/
+data/results/
+results.csv
+.pytest_cache/
+submission/figures/*.png
+.idea/
+.vscode/
